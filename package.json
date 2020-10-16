@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jboe26/fullstack_portfolio/issues"
   },
-  "homepage": "https://github.com/jboe26/fullstack_portfolio#readme"
+  "homepage": "https://github.com/jboe26/fullstack_portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
